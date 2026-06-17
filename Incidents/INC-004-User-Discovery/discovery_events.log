@@ -1,0 +1,3 @@
+Timestamp,EventID,ProcessName,ProcessID,User,CommandLine
+2026-06-17 11:45:00,4688,net.exe,6212,LOCAL_SERVICE,net user /domain
+2026-06-17 11:45:10,4688,net1.exe,6216,LOCAL_SERVICE,net localgroup administrators
