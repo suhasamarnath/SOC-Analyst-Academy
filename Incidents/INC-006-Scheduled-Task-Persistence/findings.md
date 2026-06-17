@@ -19,4 +19,4 @@ On 2026-06-17, an active endpoint alert flagged an unauthorized modification to 
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![Scheduled Task Persistence Evidence](SCHEDULED_TASK_TRIAGE.PNG)
+![Scheduled Task Persistence Evidence](../../Screenshots/SCHEDULED_TASK_TRIAGE.PNG)

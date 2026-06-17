@@ -21,4 +21,4 @@ On 2026-06-17, an endpoint monitoring alert flagged a suspicious process creatio
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![PowerShell Abuse Evidence](POWERSHELL_TRIAGE.PNG)
+![PowerShell Abuse Evidence](../../Screenshots/POWERSHELL_ABUSE_TRIAGE.PNG)

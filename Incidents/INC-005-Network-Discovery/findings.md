@@ -19,4 +19,4 @@ On 2026-06-17, an active endpoint alert flagged a series of network reconnaissan
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![Network Discovery Evidence](NETWORK_DISCOVERY_TRIAGE.PNG)
+![Network Discovery Evidence](../../Screenshots/NETWORK_DISCOVERY_TRIAGE.PNG)
