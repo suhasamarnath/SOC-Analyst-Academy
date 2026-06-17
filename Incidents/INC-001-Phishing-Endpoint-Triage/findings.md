@@ -23,4 +23,4 @@ To prevent lateral movement and block ongoing communication with the malicious i
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity network traffic analysis captured within the Zui (Brim) log parsing engine, isolating the malicious HTTP GET request line:
 
-![Zui Triage Evidence](https://raw.githubusercontent.com/suhasamarnath/SOC-Analyst-Academy/main/Incidents/INC-001-Phishing-Endpoint-Triage/ZUI_TRIAGE.PNG)
+![Phishing Triage Evidence](../../Screenshots/PHISHING_TRIAGE.PNG)
