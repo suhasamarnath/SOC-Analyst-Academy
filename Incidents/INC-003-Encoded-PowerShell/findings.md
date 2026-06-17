@@ -19,4 +19,4 @@ On 2026-06-17, an endpoint alert flagged a heavily obfuscated PowerShell executi
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![Encoded PowerShell Evidence](../../Screenshots/ENCODED_TRIAGE.PNG)
+![Encoded PowerShell Evidence](../../Screenshots/ENCODED_TRIAGE.png)

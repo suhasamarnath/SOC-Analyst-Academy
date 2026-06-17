@@ -19,4 +19,4 @@ On 2026-06-17, an active endpoint monitoring rule triggered on an anomalous exec
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![LOLBins Investigation Evidence](../../Screenshots/LOLBINS_TRIAGE.PNG)
+![LOLBins Investigation Evidence](../../Screenshots/LOLBINS_TRIAGE.png)

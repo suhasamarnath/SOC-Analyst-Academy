@@ -19,4 +19,4 @@ On 2026-06-17, a proactive threat hunting query targeting anti-forensics behavio
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![Threat Hunt Investigation Evidence](../../Screenshots/THREATHUNT_TRIAGE.PNG)
+![Threat Hunt Investigation Evidence](../../Screenshots/THREATHUNT_TRIAGE.png)

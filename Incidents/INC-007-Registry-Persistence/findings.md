@@ -19,4 +19,4 @@ On 2026-06-17, an active endpoint alert flagged an unauthorized modification to 
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![Registry Persistence Evidence](../../Screenshots/REGISTRY_TRIAGE.PNG)
+![Registry Persistence Evidence](../../Screenshots/REGISTRY_TRIAGE.png)

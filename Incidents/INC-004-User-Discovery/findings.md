@@ -19,4 +19,4 @@ On 2026-06-17, an active endpoint alert flagged a sequence of reconnaissance com
 ### 🖼️ Evidence & Artifacts
 Below is the high-fidelity process log audit captured inside Zui:
 
-![User Discovery Evidence](../../Screenshots/USER_DISCOVERY_TRIAGE.PNG)
+![User Discovery Evidence](../../Screenshots/USER_DISCOVERY_TRIAGE.png)
