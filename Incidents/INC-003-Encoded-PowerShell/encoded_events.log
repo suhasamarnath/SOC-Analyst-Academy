@@ -1,0 +1,2 @@
+Timestamp,EventID,ProcessName,ProcessID,User,CommandLine
+2026-06-17 11:30:00,4688,powershell.exe,5120,SYSTEM,powershell.exe -e aWxsZWdhbF9hY3Rpdml0eV9kZXRlY3RlZF9iYWNrZG9vcl9zZXR1cF9jb25maXJtZWQ=
