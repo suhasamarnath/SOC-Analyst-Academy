@@ -1,0 +1,2 @@
+Timestamp,EventID,ProcessName,ProcessID,User,CommandLine
+2026-06-17 14:30:00,4688,reg.exe,9512,SYSTEM,reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Run" /v "SecurityUpdate" /t REG_SZ /d "C:\Users\Public\update.exe" /f
