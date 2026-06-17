@@ -1,0 +1,2 @@
+Timestamp,EventID,ProcessName,ProcessID,User,CommandLine
+2026-06-17 16:05:00,4688,wevtutil.exe,12416,SYSTEM,wevtutil.exe cl Security
