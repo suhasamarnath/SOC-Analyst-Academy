@@ -1,0 +1,2 @@
+Timestamp,EventID,ProcessName,ProcessID,User,CommandLine
+2026-06-17 14:10:00,4688,schtasks.exe,9024,SYSTEM,schtasks /create /tn "Microsoft\Windows\UpdateService" /tr "powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -File C:\Users\Public\update.ps1" /sc hourly /mo 1
